@@ -1,0 +1,24 @@
+DATA CLEANING SUMMARY
+Dataset: Netflix Movies and TV Shows (small practice sample)
+Rows before cleaning: 18
+Rows after cleaning: 17
+Exact duplicate rows detected initially: 1
+Duplicate rows removed: 1
+Missing cells before cleaning: 8
+Missing cells after cleaning: 2
+
+CHANGES MADE
+- Standardized column names to lowercase with underscores.
+- Trimmed leading/trailing spaces in text fields.
+- Standardized content type and selected country names.
+- Standardized duration spacing and season wording.
+- Converted date_added to YYYY-MM-DD; invalid or blank dates remain missing.
+- Converted release_year to nullable integer.
+- Replaced missing director, cast, country, rating and duration with "Unknown".
+- Removed exact duplicate rows.
+- Preserved records and avoided inventing missing information.
+
+NOTE
+This repository includes a small synthetic practice sample to demonstrate the workflow.
+For a real-world internship submission, download the official Kaggle Netflix dataset,
+place it at data/netflix_raw_sample.csv (or update INPUT in this script), and rerun.

@@ -1,0 +1,18 @@
+show_id,type,title,director,cast,country,date_added,release_year,rating,duration,listed_in,description
+s001,Movie,The Silent Sea,Jane Doe,"Actor A, Actor B",South Korea,2021-01-05,2021,TV-MA,90 min,"Sci-Fi, Drama",A science fiction story.
+s002,TV Show,City Lights,John Smith,"Actor C, Actor D",United States,2020-12-10,2020,TV-14,2 Seasons,Drama,A family drama.
+s003,Movie,Ocean Deep,Unknown,Actor E,United States,2022-02-15,2022,PG-13,105 min,Documentaries,A documentary about oceans.
+s004,Movie,The Last Letter,Jane Doe,"Actor F, Actor G",Unknown,2021-07-19,2021,PG,98 min,Romance,A romantic story.
+s005,TV Show,Green Planet,Nature Films,Actor H,United Kingdom,2019-03-03,2019,TV-G,1 Seasons,Documentary,A nature series.
+s006,Movie,Hidden Truth,A. Director,"Actor I, Actor J",India,2022-08-11,2022,R,115 min,Thriller,A mystery thriller.
+s007,TV Show,Kitchen Stories,Unknown,Unknown,India,2020-05-01,2020,TV-PG,3 Seasons,Reality TV,Cooking competition.
+s008,Movie,Night Runner,Sam Lee,Actor K,Canada,,2018,R,102 min,Action,An action film.
+s009,Movie,Blue Horizon,Sam Lee,Actor L,Canada,2020-10-12,2020,PG,88 min,Adventure,An adventure story.
+s010,TV Show,Code Breakers,Tech Studio,"Actor M, Actor N",United States,2021-11-02,2021,TV-MA,2 Seasons,Technology,A technology series.
+s011,Movie,Autumn Road,R. Patel,Actor O,India,2021-09-15,2021,PG-13,100 min,Drama,A road-trip film.
+s012,Movie,Lost Signal,R. Patel,Actor P,India,2021-09-15,2021,PG-13,100 min,Drama,A road-trip film.
+s013,TV Show,Wild Tracks,Nature Films,Actor Q,United Kingdom,2023-01-07,2023,TV-G,4 Seasons,Nature,A wildlife series.
+s014,Movie,Paper Planes,M. Roy,Actor R,India,2020-06-30,2020,PG,92 min,Family,A family film.
+s016,TV Show,Future Lab,Future Media,Actor S,United States,2022-02-20,2022,TV-14,1 Seasons,Science,A science series.
+s017,Movie,The Long Way,jane doe,Actor T,United States,2021-04-04,2021,PG,97 min,Drama,A drama film.
+s018,Movie,Untitled Feature,Unknown,Actor U,Australia,,2021,Unknown,Unknown,Drama,A film with incomplete metadata.
